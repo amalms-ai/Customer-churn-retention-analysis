@@ -13,9 +13,10 @@ The dashboard helps understand customer behavior, identify customers who are lea
 - DAX
 - Data Visualization
 - Data Analysis
+
 *Dashboard Preview
 
-[Customer Churn Dashboard](Customer%20Churn%20Dashboard.png)
+[Customer Churn Dashboard](Customer Churn Dashboard.png)
 *Dashboard Features
 
 - Customer churn analysis
